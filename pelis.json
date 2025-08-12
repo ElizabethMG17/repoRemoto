@@ -1,0 +1,22 @@
+[
+  {
+    "title": "El Padrino",
+    "rating": 9.2,
+    "tags": ["drama", "crimen"]
+  },
+  {
+    "title": "Inception",
+    "rating": 8.8,
+    "tags": ["ciencia ficción", "acción"]
+  },
+  {
+    "title": "Los 4 fantasticos",
+    "rating": 7,
+    "tags": ["ciencia ficción", "acción"]
+  },
+  {
+    "title": "Interstellar",
+    "rating": 8.6,
+    "tags": ["espacio", "drama"]
+  }
+]
